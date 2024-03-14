@@ -32,7 +32,7 @@ For detailed implementation and code samples, please refer to the provided resou
 
 ## Resources
 
-- [Sample Smart Contracts](https://github.comh/RahulTharammal/Efficient-Gas-Fee-Strategies-for-Polygon-NFT-Platforms)
+- [Sample Smart Contracts](https://github.com/RahulTharammal/Efficient-Gas-Fee-Strategies-for-Polygon-NFT-Platforms)
 
 ## License
 
