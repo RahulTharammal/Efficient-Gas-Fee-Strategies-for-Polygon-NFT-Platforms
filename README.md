@@ -37,3 +37,6 @@ For detailed implementation and code samples, please refer to the provided resou
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Additional Note:
+To run the code, simply copy each code snippet and paste it into your preferred integrated development environment (IDE) for blockchain development, such as [Remix IDE](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.24+commit.e11b9ed9.js) or Truffle Suite. Follow the instructions provided in the documentation for further guidance on executing the code effectively.
